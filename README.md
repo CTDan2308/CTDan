@@ -1,2 +1,2 @@
 # CTDan
-Ez 4 everybody
+CODE is ez 4 everybody
